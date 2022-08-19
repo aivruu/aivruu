@@ -1,4 +1,4 @@
-# Hello There
+# ~ Hello There 👋 ~
 
 My name is Benjamin, and i'm programmer from 2 years and i make minecraft plugins and from time to time, some small programs when i bored.
 
