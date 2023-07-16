@@ -1,8 +1,8 @@
 # ~ Hello There 👋 ~
 
-⇨ My name is Benjamin. I'm programmer from 2 years and I make minecraft plugins and from time to time, some small programs when I bored. Also I'm a lover of Astronomy.
+| My name is Benjamin. I'm programmer since 3 years and I make minecraft plugins and from time to time, some small programs when I bored. Also, I'm a lover of Astronomy.
 
-⇨ _Knowledge at PaperSpigot/Spigot & BungeeCord platforms. Beginner at Kotlin & Git._
+| _Knowledge at PaperSpigot/Spigot & BungeeCord platforms. Beginner at Kotlin & Git._
 
 ![](https://api.mcbanners.com/banner/saved/OyPUqsPgPWFCLq.png)
 
