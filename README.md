@@ -3,7 +3,7 @@
 | My name is Benjamin. I like programming and make Minecraft plugins
 
 I've knowledge on Spigot; Paper; BungeeCord; Velocity Minecraft platforms. <p>
-Also, I have some experience on Kotlin.
+Also, I have something experience on Kotlin.
 
 ![](https://api.mcbanners.com/banner/saved/OyPUqsPgPWFCLq.png)
 
