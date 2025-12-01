@@ -68,5 +68,3 @@ You can also contact me via 💬 Discord: _*qekly.dev*_
   <img alt="TOML" src="https://img.shields.io/badge/TOML-9C4121?logo=toml&logoColor=fff" />
   <img alt="YAML" src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff" />
 </p>
-
-![aivruu's Stats](https://github-readme-stats.vercel.app/api?username=aivruu&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
