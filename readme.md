@@ -4,16 +4,20 @@
   <a href="https://www.linkedin.com/in/benjaminverdejor/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-I'm a Software Developer since five years using Java along with other languages and technologies.
+I'm a Software Developer, but mostly a Minecraft Plugin Developer since five years  using Java along with other languages and/or technologies for either minecraft-oriented or general-purpose projects.
 
-During these years I spend my time creating and contribuiting to OSS projects, specially those that involves *object-oriented-programming* or *low-level* languages such as **C**, but projects
-mainly made in **Java**, I tried also new languages such as **Go**, **Python** and **C**, along with frameworks/libraries that works with these languages.
+During my free time I like to spend my time creating and contribuiting to OSS projects, specially those that involves *object-oriented-programming*. Along with Java, I tried other languages such as **Go**, **Python** and **C**, along with some frameworks/libraries that works with these languages.
 
 ### My work
 
-I do multiple kinds of work either to contribute to other projects, or create projects with a idea of for personal or general helpful.
+I do multiple kinds of work either to contribute to other projects, or create projects with an idea for personal-use or general helpful.
 <p>
-OSS is a huge part of my time as a developer, so I would like to highlight some projects that've created.
+OSS is a huge part of my time and experience as developer, so I would like to highlight some projects that've created, as well servers I've worked for as Developer.
+
+* **PardoCraft** - Developer (_2021_)
+* **Velex Network** - Developer (_2023 - 2024_)
+* **SummonCraft** - Developer (2024)
+* **SpaceMC** - Developer (2024 - 2025)
 
 <table>
   <thead align="center">
