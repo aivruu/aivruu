@@ -14,8 +14,8 @@ I do multiple kinds of work either to contribute to other projects, or create pr
 <p>
 OSS is a huge part of my time and experience as developer, so I would like to highlight some projects that've created, as well servers I've worked for as Developer.
 
-* **PardoCraft** - Developer (_2021_)
-* **Velex Network** - Developer (_2023 - 2024_)
+* **PardoCraft** - Developer (2021)
+* **Velex Network** - Developer (2023 - 2024)
 * **SummonCraft** - Developer (2024)
 * **SpaceMC** - Developer (2024 - 2025)
 
