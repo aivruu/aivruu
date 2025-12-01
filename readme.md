@@ -40,7 +40,7 @@ OSS is a huge part of my time and experience as developer, so I would like to hi
       <td><img alt="Golang" src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white" /></td>
     </tr>
     <tr>
-      <td>🦺 <a href="https://github.com/aivruu/cma"><b>cma</b></a> — Basic C written Memory-Allocator.</td>
+      <td>🦺 <a href="https://github.com/aivruu/cma"><b>cma</b></a> — Very-basic Memory Allocator.</td>
       <td><img alt="C" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" /></td>
     </tr>
   </tbody>
