@@ -52,7 +52,7 @@ You can also contact me via 💬 Discord: _*qekly.dev*_
 
 <h2 align="center">Tech Stack</h2>
 
-<h4 align="center">Programming Languages</h4>
+<h4 align="center">Languages</h4>
 
 <p align="center">
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
