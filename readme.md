@@ -1,56 +1,34 @@
-# Hi there 👋
+# 👋 | Hi there
 I'm a Software Developer, but mostly a Minecraft Plugin Developer since five years  using Java along with other languages and/or technologies for either minecraft-oriented or general-purpose projects.
 
 During my free time I like to spend my time creating and contribuiting to OSS projects, specially those that involves *object-oriented-programming*. Along with Java, I tried other languages such as **Go**, **Python** and **C**, along with some frameworks/libraries that works with these languages.
 
-I do multiple kinds of work either to contribute to other projects, or create projects with an idea for personal-use or general helpful.
-<p>
+I do multiple kinds of work either to contribute to other projects, or create projects with an idea for personal-use or general helpful.<br><br>
 OSS is a huge part of my time and experience as developer, so I would like to highlight some projects that've created, as well servers I've worked for as Developer.
 
-* **PardoCraft** - Developer (2021)
-* **Velex Network** - Developer (2023 - 2024)
-* **SummonCraft** - Developer (2024)
-* **SpaceMC** - Developer (2024 - 2025)
+## 🔥 | Featured Projects — list of projects made by myself and some on which I contributed.
+<ul>
+  🏷 — <b>teams:</b> A packet-level paper-plugin for minecraft-servers that allows to create customizable-tags with MiniMessage to increase formatting-options for users.<br>
+  📌 — <b>RegionEvents:</b> A paper-based plugin that provides an API with events to work with WorldGuard-regions.<br>
+  📖 — <b>menus:</b> NMS-based minecraft-library for modern-versions to allow customizable-menus creation, along with skull-items usage.<br><br>
+  
+  🌒 — <b>go-viewer:</b> A go-written CLI program that allows to fetch information/attributes-data from public github-repositories through GitHub's API, this project is a clon of <b>repo-viewer</b> which was made in Java.<br>
+  🦺 — <b>cma:</b> Very-basic memory-allocator algorith I wrote in C with educational-purposes to understand memory-management at low-level.<br>
+  📊 — <b>esstk:</b> a not-finished program I wrote in Python to keep track of expenses by date while providing UI/UX features.<br>
 
-<p align="center">
-  <a href="https://x.com/intent/follow?screen_name=QeklyDev1966&tw_p=followbutton" target="_blank"><img alt="X" src="https://img.shields.io/badge/twitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/benjaminverdejor/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+  ✨ — <b>FancyGlow:</b> I contributed some improvements to the codebase the past-year -> <a href="https://github.com/Smarts-Hub/FancyGlow/pulls?q=is%3Apr+is%3Aclosed+author%3Aaivruu">Checkout contributed PRs</a><br>
+</ul>
 
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>📦 Projects</b></td>
-      <td><b>📜 Language</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>🏷 <a href="https://github.com/aivruu/teams"><b>teams</b></a> — Packed-based plugin for Minecraft servers that allow players to select customizable-tags for their nicknames.</td>
-      <td><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /></td>
-    </tr>
-    <tr>
-      <td>📌 <a href="https://github.com/aivruu/region-events"><b>REvt (RegionEvents)</b></a> — Provides events & API to work with WorldGuard's regions.</td>
-      <td><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /></td>
-    </tr>
-    <tr>
-      <td>🌒 <a href="https://github.com/aivruu/go-viewer"><b>go-viewer</b></a> — a CLI program that allows fetch information about repositories and releases, and download releases' assets.</td>
-      <td><img alt="Golang" src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white" /></td>
-    </tr>
-    <tr>
-      <td>🦺 <a href="https://github.com/aivruu/cma"><b>cma</b></a> — Very-basic Memory Allocator.</td>
-      <td><img alt="C" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" /></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/aivruu/esstk"><b>esstk</b></a> — Unfinished/archived python-written program to keep track of expenses by date.</td>
-      <td><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /></td>
-    </tr>
-  </tbody>
-</table>
+## 🔨 | Experience - list of servers I contributed at.
+<ul>
+  — 2021 | <b>PardoCraft:</b> I contributed with custom-made plugins for the server's survival, specifically for chat-management.<br><br>
+  — 2023-2024 | <b>Velex Network:</b> In-charge of custom-made plugins for the server, as well, modifications and bug-fixes for some public-plugins the server relied on. I made a custom-fork of the <a href="https://github.com/Plugily-Projects/TheBridge">TheBridge</a> plugin that included multiple bug-fixes related with the in-game system, also, I was requested to modify a clans-plugin to add additional-functionality. Finally, I was working on a custom NPC-based plugin before the server closed.<br><br>
+  — 2024 | <b>SummonCraft:</b> Stayed only 2-3 months. I worked on a custom lives-plugin for the server's survival, specified to provide functionality for maximum-lives, actions when ran out-of-lives, and life-steal based-functionality for the plugin.<br><br>
+  — 2024 | <b>SpaceMC:</b> Worked on a custom-made regions-based plugin to work with WorldGuard-regions, for an event. Functionality variated on allowing users to see each-other if they were in the same region, and allow player-removal from the tab-list via packet-based handling if they weren't.<br><br>
+  — 2025 | <b>LowyCraft:</b> In-charge of head-development temporally, created a core-type plugin for HCF-related gameplay with several-features: Built-in combat-management system; Customizable duration/time-unit cooldown-system; Position/spawn-point management; And custom rank-system for the users.
+</ul>
 
-You can also contact me via 💬 Discord: _*qekly.dev*_
-
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">💻 | My Tech Stack</h2>
 
 <h4 align="center">Languages</h4>
 
@@ -59,7 +37,6 @@ You can also contact me via 💬 Discord: _*qekly.dev*_
 <img alt="Go" src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
 <img alt="C" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
-<img alt="Rust" src="https://img.shields.io/badge/-Rust-ce412B?style=flat-square&logo=rust&logoColor=white" />
 <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white" />
 <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white" />
 </p>
@@ -88,5 +65,12 @@ You can also contact me via 💬 Discord: _*qekly.dev*_
 <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" />
 <img alt="TOML" src="https://img.shields.io/badge/TOML-9C4121?logo=toml&logoColor=fff" />
 <img alt="YAML" src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff" />
+</p>
+
+## 📫 | Reach Me
+<p align="center">
+  <a href="benjaalejandro206@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail" /></a>
+  <a href="https://github.com/aivruu"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" /></a>
+  <a href="https://x.com/QeklyDev1966"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FQeklyDev1966"/></a>
 </p>
 
