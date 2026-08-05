@@ -13,7 +13,7 @@ OSS is a huge part of my time and experience as developer, so I would like to hi
   📖 — <b>menus:</b> Simple NMS-based minecraft-library for modern-versions to allow customizable-menus creation.<br><br>
   
   🌒 — <b>go-viewer:</b> A go-written CLI program that allows to fetch information/attributes-data from public github-repositories through GitHub's API, this project is a clon of <b>repo-viewer</b> which was made in Java.<br>
-  🦺 — <b>cma:</b> Very-basic memory-allocator algorith I wrote in C with educational-purposes to understand memory-management at low-level.<br>
+  🦺 — <b>cma:</b> Very-basic memory-allocator algorithm I wrote in C with educational-purposes to understand memory-management at low-level.<br>
   📊 — <b>esstk:</b> a not-finished program I wrote in Python to keep track of expenses by date while providing UI/UX features.<br>
 
   ✨ — <b>FancyGlow:</b> I contributed some improvements to the codebase the past-year -> <a href="https://github.com/Smarts-Hub/FancyGlow/pulls?q=is%3Apr+is%3Aclosed+author%3Aaivruu">Checkout contributed PRs</a><br>
