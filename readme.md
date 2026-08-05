@@ -4,13 +4,13 @@ I'm a Software Developer, but mostly a Minecraft Plugin Developer since five yea
 During my free time I like to spend my time creating and contribuiting to OSS projects, specially those that involves *object-oriented-programming*. Along with Java, I tried other languages such as **Go**, **Python** and **C**, along with some frameworks/libraries that works with these languages.
 
 I do multiple kinds of work either to contribute to other projects, or create projects with an idea for personal-use or general helpful.<br><br>
-OSS is a huge part of my time and experience as developer, so I would like to highlight some projects that've created, as well servers I've worked for as Developer.
+OSS is a huge part of my time and experience as developer, so I would like to highlight the projects on which I've worked or contributed, as well the servers I've worked for as Developer.
 
-## 🔥 | Featured Projects — list of projects made by myself and some on which I contributed.
+## 🔥 | Featured Projects — list of projects made by myself and which I contributed on.
 <ul>
   🏷 — <b>teams:</b> A packet-level paper-plugin for minecraft-servers that allows to create customizable-tags with MiniMessage to increase formatting-options for users.<br>
   📌 — <b>RegionEvents:</b> A paper-based plugin that provides an API with events to work with WorldGuard-regions.<br>
-  📖 — <b>menus:</b> NMS-based minecraft-library for modern-versions to allow customizable-menus creation, along with skull-items usage.<br><br>
+  📖 — <b>menus:</b> Simple NMS-based minecraft-library for modern-versions to allow customizable-menus creation.<br><br>
   
   🌒 — <b>go-viewer:</b> A go-written CLI program that allows to fetch information/attributes-data from public github-repositories through GitHub's API, this project is a clon of <b>repo-viewer</b> which was made in Java.<br>
   🦺 — <b>cma:</b> Very-basic memory-allocator algorith I wrote in C with educational-purposes to understand memory-management at low-level.<br>
@@ -21,11 +21,11 @@ OSS is a huge part of my time and experience as developer, so I would like to hi
 
 ## 🔨 | Experience - list of servers I contributed at.
 <ul>
-  — 2021 | <b>PardoCraft:</b> I contributed with custom-made plugins for the server's survival, specifically for chat-management.<br><br>
-  — 2023-2024 | <b>Velex Network:</b> In-charge of custom-made plugins for the server, as well, modifications and bug-fixes for some public-plugins the server relied on. I made a custom-fork of the <a href="https://github.com/Plugily-Projects/TheBridge">TheBridge</a> plugin that included multiple bug-fixes related with the in-game system, also, I was requested to modify a clans-plugin to add additional-functionality. Finally, I was working on a custom NPC-based plugin before the server closed.<br><br>
-  — 2024 | <b>SummonCraft:</b> Stayed only 2-3 months. I worked on a custom lives-plugin for the server's survival, specified to provide functionality for maximum-lives, actions when ran out-of-lives, and life-steal based-functionality for the plugin.<br><br>
-  — 2024 | <b>SpaceMC:</b> Worked on a custom-made regions-based plugin to work with WorldGuard-regions, for an event. Functionality variated on allowing users to see each-other if they were in the same region, and allow player-removal from the tab-list via packet-based handling if they weren't.<br><br>
-  — 2025 | <b>LowyCraft:</b> In-charge of head-development temporally, created a core-type plugin for HCF-related gameplay with several-features: Built-in combat-management system; Customizable duration/time-unit cooldown-system; Position/spawn-point management; And custom rank-system for the users.
+  — 2021-2021 | <b>PardoCraft:</b> I contributed with custom-made plugins for the server's survival, specifically for chat-management.<br><br>
+  — 2023-2024 | <b>Velex Network:</b> I was in charge of custom-made plugins for the server, as well, modifications and bug-fixes for some public-plugins the server relied on. I made a custom-fork of the <a href="https://github.com/Plugily-Projects/TheBridge">TheBridge</a> plugin that included multiple bug-fixes related with the in-game system, also, I was requested to modify a clans-plugin to add additional-functionality. Finally, I was working on a custom NPC-based plugin before the server closed.<br><br>
+  — 2024-2024 | <b>SummonCraft:</b> Stayed only 2-3 months. I worked on a custom lives-plugin for the server's survival, specified to provide functionality for maximum-lives, actions when ran out-of-lives, and life-steal based-functionality for the plugin.<br><br>
+  — 2024-2025 | <b>SpaceMC:</b> Worked on a custom-made regions-based plugin to work with WorldGuard-regions, for an event. Functionality variated on allowing users to see each-other if they were in the same region, and allow player-removal from the tab-list via packet-based handling if they weren't.<br><br>
+  — 2025-2026 (Retired) | <b>LowyCraft:</b> I was in charge of Head-Development temporally, created a core-type plugin for HCF-related gameplay with several-features: Built-in combat-management system; Customizable duration/time-unit cooldown-system; Position/spawn-point management; And custom rank-system for the users.
 </ul>
 
 <h2 align="center">💻 | My Tech Stack</h2>
